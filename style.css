@@ -10,6 +10,6 @@
     border-right: none;
 }
 
-.menu a:hover{
+.menu a:first-child:hover{
     color: #ffe13c;
 }
